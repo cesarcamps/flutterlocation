@@ -1,3 +1,11 @@
+  Para usarlo agregar en el pubspec.yaml esto
+  
+  location: 
+   git:
+      url: https://github.com/cesarcamps/flutterlocation
+      ref: master  
+      path: packages/location
+
 # Flutter Location Plugin
 
 [![pub package](https://img.shields.io/pub/v/location.svg)](https://pub.dartlang.org/packages/location) ![Cirrus CI - Task and Script Build Status](https://img.shields.io/cirrus/github/Lyokone/flutterlocation?task=test)
